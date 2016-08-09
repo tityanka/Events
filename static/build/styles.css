@@ -1,0 +1,28 @@
+body {
+  margin: 0 auto;
+  padding: 3em;
+}
+
+.none {
+  display: none !important;
+}
+
+.article {
+  background: #fff;
+  border: 1px solid rgba(0, 89, 181, 0.82);
+  margin: 0 0 5px;
+  padding: 3px 5px;
+}
+
+.news__author {
+  text-decoration: underline;
+  color: violet;
+}
+
+.news__count {
+  margin: 10px 0 0 0;
+  display: block;
+}
+
+
+/*# sourceMappingURL=styles.css.map*/
